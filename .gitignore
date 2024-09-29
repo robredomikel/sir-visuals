@@ -1,0 +1,15 @@
+/myenv
+/codes
+/data
+/templates
+/NLP-analysis-results
+Archive.zip
+flare.json
+.DS_Store
+.idea/
+templates-model
+templates-vartype
+binary_treemap.html
+binary_treemap_compressed.html.gz
+NLP-adjusted-results
+README.md
